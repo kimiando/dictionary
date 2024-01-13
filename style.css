@@ -5,7 +5,7 @@
 }
 *:not(i){
   font-family: 'Poppins', sans-serif;
-  color: white;
+  color: tomato;
 }
 body{
   background-color: tomato;
